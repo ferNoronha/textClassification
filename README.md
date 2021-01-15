@@ -1,6 +1,6 @@
 # Classificação de texto com alguns tópicos do reddit
 
-Projeto de classificação de texto com tópicos do reddit.
+Projeto de classificação de texto com tópicos do reddit oferecido pela plataforma DataScienceAcademy.
 Foi utilizado a API do reddit para extrair alguns posts com assuntos variados como ['datascience', 'machinelearning', 'physics', 'astrology', 'conspiracy'] e treinamos as seguintes redes de classificação: Random Forest, Logistc Regression e KNN.
 
 ## Installation
